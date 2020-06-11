@@ -1,5 +1,5 @@
 # without Numpy
-from numerical_array import heights
+from arrays import heights
 count = 0
 for height in heights:
     if height > heights[0]:

@@ -1,1 +1,1 @@
-from .numerical_array import *
+from .arrays import *

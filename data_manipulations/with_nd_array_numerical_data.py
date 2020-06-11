@@ -1,4 +1,4 @@
-from numerical_array import heights, ages
+from arrays import heights, ages
 """ Find the heights greater than > 189 """
 # using Numpy lib
 import numpy as np

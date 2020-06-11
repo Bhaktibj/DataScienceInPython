@@ -1,7 +1,7 @@
 """ Numpy supports several data types such as int (integer), float (numeric floating point),
  and bool (boolean values, True and False)."""
 # Note: numpy array is homogenious array
-from numerical_array import heights, ages, is_active, names
+from arrays import heights, ages, is_active, names
 import numpy as np
 
 heights_array = np.array(heights)

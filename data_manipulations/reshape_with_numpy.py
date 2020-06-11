@@ -1,4 +1,4 @@
-from numerical_array import ages, heights
+from arrays import ages, heights
 import numpy as np
 
 """ Add the ages and heights of employees"""

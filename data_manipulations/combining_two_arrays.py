@@ -1,6 +1,6 @@
 """ Combining The arrays """
 """ To combine more than two arrays horizontally, simply add the additional arrays into the tuple """
-from numerical_array import ages, heights
+from arrays import ages, heights
 import numpy as np
 
 # using hstack --- horizontal

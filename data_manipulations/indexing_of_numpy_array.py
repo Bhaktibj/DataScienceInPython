@@ -1,7 +1,7 @@
 """ What if we want to inspect the first three elements from the first row in a 2darray? We use ":"
 to select all the elements from the index up to but not including the ending index. This is called slicing."""
 
-from numerical_array import heights, ages, is_active, names
+from arrays import heights, ages, is_active, names
 import numpy as np
 
 heights_array = np.array(heights)
